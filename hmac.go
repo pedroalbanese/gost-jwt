@@ -4,8 +4,6 @@ import (
 	"bytes"
 	"crypto"
 	"crypto/hmac"
-	_ "github.com/pedroalbanese/gogost/gost34112012256"
-	_ "github.com/pedroalbanese/gogost/gost34112012512"
 	"errors"
 )
 
