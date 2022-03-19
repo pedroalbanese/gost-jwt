@@ -1,4 +1,4 @@
-# gostwt
+# gost-jwt
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/gostwt/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/gostwt?status.png)](http://godoc.org/github.com/pedroalbanese/gostwt)
 [![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/gostwt/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/gostwt/releases)
