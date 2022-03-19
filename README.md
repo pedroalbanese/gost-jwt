@@ -1,4 +1,11 @@
 # gostwt
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/gostwt/blob/master/LICENSE.md) 
+[![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/gostwt/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/gostwt/releases)
+[![GoDoc](https://godoc.org/github.com/pedroalbanese/gostwt?status.png)](http://godoc.org/github.com/pedroalbanese/gostwt)
+[![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/gostwt)](https://goreportcard.com/report/github.com/pedroalbanese/gostwt)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/gostwt)](https://golang.org)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/gostwt)](https://github.com/pedroalbanese/gostwt/releases)
+
 JSON Web Tokens are an open, industry standard method (RFC 7519) for representing claims securely between two parties. This version only works with HMAC-Streebog signatures. ECDH_ES variant, consists in the direct use of a shared symmetric key as the Content Encryption Key (CEK) for the block encryption step (recommended). 
 
 ## Usage of gost-jwt:
