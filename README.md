@@ -22,3 +22,9 @@ JSON Web Tokens are an open, industry standard method (RFC 7519) for representin
   -verify string
         path to JWT token to verify or '-' to read from stdin
 </pre>
+        
+## License
+
+This project is licensed under the ISC License.
+
+##### Copyright (c) 2020-2021 Pedro Albanese - ALBANESE Research Lab
