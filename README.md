@@ -18,7 +18,7 @@ JSON Web Tokens are an open, industry standard method (RFC 7519) for representin
   -show
         Show header
   -sign string
-        path to claims object to sign, '-' to read from stdin, or '+' to use only-claim args
+        path to claims object to sign, '-' to read from stdin, or '+' to use only -claim args
   -verify string
         path to JWT token to verify or '-' to read from stdin
 </pre>
