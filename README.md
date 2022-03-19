@@ -2,7 +2,7 @@
 JSON Web Tokens are an open, industry standard method (RFC 7519) for representing claims securely between two parties. This version only works with HMAC-Streebog signatures. ECDH_ES variant, consists in the direct use of a shared symmetric key as the Content Encryption Key (CEK) for the block encryption step (recommended). 
 
 ## Usage of gost-jwt:
-  One of the following flags is required: sign, verify
+<pre>  One of the following flags is required: sign, verify
   -alg string
         signing algorithm identifier (default "HG256")
   -claim value
@@ -22,3 +22,4 @@ JSON Web Tokens are an open, industry standard method (RFC 7519) for representin
 y -claim args
   -verify string
         path to JWT token to verify or '-' to read from stdin
+</pre>
