@@ -27,4 +27,4 @@ JSON Web Tokens are an open, industry standard method (RFC 7519) for representin
 
 This project is licensed under the ISC License.
 
-##### Copyright (c) 2020-2021 Pedro Albanese - ALBANESE Research Lab
+##### Copyright (c) 2020-2022 Pedro Albanese - ALBANESE Research Lab
