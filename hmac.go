@@ -7,13 +7,13 @@ import (
 	"errors"
 )
 
-// Implements the HMAC-SHA family of signing methods signing methods
+// Implements the HMAC-Streebog family of signing methods signing methods
 type SigningMethodHMAC struct {
 	Name string
 	Hash crypto.Hash
 }
 
-// Specific instances for HS256 and company
+// Specific instances for HG256 and company
 var (
 	SigningMethodHG256 *SigningMethodHMAC
 	SigningMethodHG512 *SigningMethodHMAC
