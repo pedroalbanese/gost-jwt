@@ -16,7 +16,7 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/pedroalbanese/gostwt"
+	"github.com/pedroalbanese/gost-jwt"
 )
 
 var (
